@@ -17,6 +17,7 @@ WELCOME = """👋 Welcome to Study AI Bot!
 ✅ Step-by-step solution dunga.
 
 ✍️ Ab apna question bhejiye."""
+owner and build by @Parth_IzPro
 
 SYSTEM = (
     "You are a helpful study assistant. Answer only educational questions. "
